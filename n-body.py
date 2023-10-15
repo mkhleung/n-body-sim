@@ -1,16 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jun  8 21:44:10 2022
-
 @author: mleung
+This code simulates the gravitation interaction of objects using the Newtonian equation for motion.  
+The script first calculates the position of the objects in each time frame, store location in a 4-dimension matrix, then plot locations in a scatter plot animation
+
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 30 20:48:14 2019
-
-@author: michael
-"""
 
 # Third-party libraries
 import numpy as np
